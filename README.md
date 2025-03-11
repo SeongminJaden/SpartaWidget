@@ -40,15 +40,25 @@ SpartaWidget/
 ---
 
 ## 🚀 실행 방법
+
+### Visual Stuido에서 실행할 경우
 1. 프로젝트를 클론합니다.
    ```sh
-   git clone https://github.com/your-repo/SpartaWidget.git
+   git clone https://github.com/SeongminJaden/SpartaWidget.git
    ```
 2. `SpartaWidget.sln` 파일을 Visual Studio에서 엽니다.
 3. `빌드 > 솔루션 빌드`를 실행합니다.
 4. `SpartaWidget.exe` 실행 파일을 실행합니다.
-
+### SetupFile로 설치하여 실행할 경우
+1. 프로젝트를 클론합니다.
+   ```sh
+   git clone https://github.com/SeongminJaden/SpartaWidget.git
+   ```
+2.SpartaWidget/install spartaWidget/Debug 폴더에 들어갑니다.
 ---
+3. setup.exe를 실행하여 설치합니다.
+4. 바탕화면에 표시된 "spartaWidget"을 클릭하여 실행합니다.
+5. 시작프로그램 등 설정은 자유!
 
 ## ⚙ 설정 방법
 1. 트레이 아이콘에서 **설정**을 클릭합니다.
