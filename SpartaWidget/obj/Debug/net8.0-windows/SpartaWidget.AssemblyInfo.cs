@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpartaWidget")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a657bfb288f1991aa44f96110fcbeed4a921f3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f41d2fd72bf8fa6eb34b58f34ea8d9fdd976ce5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpartaWidget")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpartaWidget")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
