@@ -6,7 +6,8 @@
         WindowStyle="None" 
         AllowsTransparency="True"
         Background="Transparent"
-        Topmost="True">
+        Topmost="True"
+        WindowStartupLocation="CenterScreen">
 
     <Window.Resources>
         <Style x:Key="TransparentButtonStyle" TargetType="Button">
@@ -50,7 +51,7 @@
                     <Button Click="OpenAttendancePage" Width="100" Height="120" Style="{StaticResource TransparentButtonStyle}">
                         <StackPanel HorizontalAlignment="Center">
                             <Image Source="pack://application:,,,/Resources/attendance.png" Width="80" Height="90"/>
-                            <TextBlock Text="출석체크" FontSize="15" Foreground="White" TextAlignment="Center"/>
+                            <TextBlock Text="출석체크" FontSize="14" Foreground="White" TextAlignment="Center"/>
                         </StackPanel>
                     </Button>
                 </Border>
@@ -60,7 +61,7 @@
                     <Button Click="OpenSlack" Width="100" Height="120" Style="{StaticResource TransparentButtonStyle}">
                         <StackPanel HorizontalAlignment="Center">
                             <Image Source="pack://application:,,,/Resources/slack.png" Width="60" Height="90"/>
-                            <TextBlock Text="Slack" FontSize="15" Foreground="White" TextAlignment="Center"/>
+                            <TextBlock Text="Slack" FontSize="14" Foreground="White" TextAlignment="Center"/>
                         </StackPanel>
                     </Button>
                 </Border>
@@ -70,7 +71,7 @@
                     <Button Click="OpenZep" Width="100" Height="120" Style="{StaticResource TransparentButtonStyle}">
                         <StackPanel HorizontalAlignment="Center">
                             <Image Source="pack://application:,,,/Resources/zep.png" Width="80" Height="90"/>
-                            <TextBlock Text="ZEP" FontSize="15" Foreground="White" TextAlignment="Center"/>
+                            <TextBlock Text="ZEP" FontSize="14" Foreground="White" TextAlignment="Center"/>
                         </StackPanel>
                     </Button>
                 </Border>
@@ -80,7 +81,7 @@
                     <Button Click="OpenAndroidStudio" Width="100" Height="120" Style="{StaticResource TransparentButtonStyle}">
                         <StackPanel HorizontalAlignment="Center">
                             <Image Source="pack://application:,,,/Resources/android.png" Width="80" Height="90"/>
-                            <TextBlock Text="Android Studio" FontSize="15" Foreground="White" TextAlignment="Center"/>
+                            <TextBlock Text="Android Studio" FontSize="14" Foreground="White" TextAlignment="Center"/>
                         </StackPanel>
                     </Button>
                 </Border>
@@ -90,7 +91,7 @@
                     <Button Click="OpenSettings" Width="100" Height="120" Style="{StaticResource TransparentButtonStyle}">
                         <StackPanel HorizontalAlignment="Center">
                             <Image Source="pack://application:,,,/Resources/setting.png" Width="80" Height="90"/>
-                            <TextBlock Text="setting" FontSize="15" Foreground="White" TextAlignment="Center"/>
+                            <TextBlock Text="setting" FontSize="14" Foreground="White" TextAlignment="Center"/>
                         </StackPanel>
                     </Button>
                 </Border>

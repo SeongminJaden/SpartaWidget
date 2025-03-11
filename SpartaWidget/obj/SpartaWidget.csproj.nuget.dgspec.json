@@ -11,7 +11,7 @@
         "projectName": "SpartaWidget",
         "projectPath": "C:\\github\\spartaWidget\\SpartaWidget\\SpartaWidget.csproj",
         "packagesPath": "C:\\Users\\min12\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\SpartaWidget\\SpartaWidget\\obj\\",
+        "outputPath": "C:\\github\\spartaWidget\\SpartaWidget\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

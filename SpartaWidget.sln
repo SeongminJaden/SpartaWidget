@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpartaWidget", "SpartaWidget\SpartaWidget.csproj", "{ED42DC00-1815-4A22-9E4B-D319964BCA44}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "install spartaWidget", "install spartaWidget\install spartaWidget.vdproj", "{F409DDE3-1E5C-CBD5-F69A-A34C8F739921}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,9 @@ Global
 		{ED42DC00-1815-4A22-9E4B-D319964BCA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED42DC00-1815-4A22-9E4B-D319964BCA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED42DC00-1815-4A22-9E4B-D319964BCA44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F409DDE3-1E5C-CBD5-F69A-A34C8F739921}.Debug|Any CPU.ActiveCfg = Debug
+		{F409DDE3-1E5C-CBD5-F69A-A34C8F739921}.Debug|Any CPU.Build.0 = Debug
+		{F409DDE3-1E5C-CBD5-F69A-A34C8F739921}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

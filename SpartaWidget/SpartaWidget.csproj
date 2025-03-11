@@ -13,6 +13,7 @@
     <None Remove="Resources\android.png" />
     <None Remove="Resources\attendance.png" />
     <None Remove="Resources\MainFont.ttf" />
+    <None Remove="Resources\setting.png" />
     <None Remove="Resources\slack.png" />
     <None Remove="Resources\vscode.png" />
     <None Remove="Resources\zep.png" />
@@ -22,6 +23,7 @@
     <Resource Include="Resources\android.png" />
     <Resource Include="Resources\attendance.png" />
     <Resource Include="Resources\MainFont.ttf" />
+    <Resource Include="Resources\setting.png" />
     <Resource Include="Resources\slack.png" />
     <Resource Include="Resources\vscode.png" />
     <Resource Include="Resources\zep.png" />
