@@ -55,7 +55,6 @@ SpartaWidget/
    git clone https://github.com/SeongminJaden/SpartaWidget.git
    ```
 2.SpartaWidget/install spartaWidget/Debug 폴더에 들어갑니다.
----
 3. setup.exe를 실행하여 설치합니다.
 4. 바탕화면에 표시된 "spartaWidget"을 클릭하여 실행합니다.
 5. 시작프로그램 등 설정은 자유!
