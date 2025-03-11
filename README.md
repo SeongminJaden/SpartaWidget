@@ -7,7 +7,7 @@
 
 ## 📌 기능
 - ✅ **투명한 UI** (윈도우 창 없음)
-- ✅ **출석 체크 / Slack / ZEP / Android Studio / VS Code 실행 버튼**
+- ✅ **출석 체크 / Slack / ZEP / Android Studio  실행 버튼**
 - ✅ **사용자 이름 및 메시지 변경**
 - ✅ **트레이 아이콘으로 설정 창 접근 가능**
 - ✅ **백그라운드 실행**
@@ -31,7 +31,6 @@ SpartaWidget/
 │   │   ├── slack.png         # Slack 아이콘
 │   │   ├── zep.png           # ZEP 아이콘
 │   │   ├── android.png       # Android Studio 아이콘
-│   │   ├── vscode.png        # VS Code 아이콘
 │   │   ├── settings.png      # 설정 아이콘
 │   ├── settings.txt          # 사용자 설정 저장 파일
 │   └── SpartaWidget.csproj   # 프로젝트 파일
