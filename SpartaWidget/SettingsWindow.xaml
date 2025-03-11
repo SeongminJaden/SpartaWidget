@@ -1,0 +1,12 @@
+﻿<Window x:Class="SpartaWidget.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="설정" Height="200" Width="300">
+
+    <StackPanel Margin="20">
+        <TextBlock Text="이름 변경:" Margin="5"/>
+        <TextBox x:Name="UserNameTextBox" Width="200" Margin="5"/>
+
+        <Button Content="저장" Click="SaveSettings" Width="200" Margin="10"/>
+    </StackPanel>
+</Window>

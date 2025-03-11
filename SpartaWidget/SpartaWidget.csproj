@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+	<UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\android.png" />
+    <None Remove="Resources\attendance.png" />
+    <None Remove="Resources\MainFont.ttf" />
+    <None Remove="Resources\slack.png" />
+    <None Remove="Resources\vscode.png" />
+    <None Remove="Resources\zep.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\android.png" />
+    <Resource Include="Resources\attendance.png" />
+    <Resource Include="Resources\MainFont.ttf" />
+    <Resource Include="Resources\slack.png" />
+    <Resource Include="Resources\vscode.png" />
+    <Resource Include="Resources\zep.png" />
+  </ItemGroup>
+
+</Project>

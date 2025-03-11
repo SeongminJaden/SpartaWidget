@@ -1,0 +1,8 @@
+﻿<Application x:Class="SpartaWidget.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!-- 글로벌 스타일 및 리소스를 여기에 추가 가능 -->
+    </Application.Resources>
+</Application>
