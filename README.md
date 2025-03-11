@@ -2,7 +2,7 @@
 
 **SpartaWidget**은 Windows용 **투명한 위젯**으로, 스파르타코딩클럽 내일배움캠프 대원들을 위해 </br>출석체크부터 안드로이드스튜디오 실행까지 어플리케이션을 빠르게 실행할 수 있도록 만들어졌습니다`.  
 또한 **트레이 아이콘을 통해 설정 변경이 가능**하며, 백그라운드에서 실행됩니다.
-
+![_2025_03_12_00_55_36_671-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3f1ff4e5-06a1-41ba-a728-b20a9ffbc1b8)
 ---
 
 ## 📌 기능
